@@ -1,1103 +1,129 @@
-﻿Atoll,Island, Project Start Dates,Completion Date ,Type,Type,Area_sqm,Rationale taken from source,Rationale Description,Rationale
-Haa Alifu,Dhihdhoo,2010,,Extension,Extension,"398,246.94"," increase the usable space on the island, allowing space for social and economic 
+﻿Atoll,Island,Date,Type,Area_sqm,Rationale  Description,Rationale
+Haa Alifu,Dhihdhoo,2010,Extension,398246.94," increase the usable space on the island, allowing space for social and economic 
 development, 
-• providing more safety against the sea for at least the next 50 years (storm events, sealevel rise),Environmental Protection (Safer Island/Focus Island Policy)","Social Development & Recreation
-Climate & Environment",Social Development & Recreation
-Haa Alifu,Dhihdhoo,2023,,"Environmental Protection
-Extension",Extension,"265,000",Need for addtional land - housing and industrial uses ,"Social Development & Recreation
-Economic Development",Social Development & Recreation
-Haa Alifu,Huvarafushi,2019,2023,Airport Development,Airport Development,"350,000","Economic activities, reduce out migration from region","Economic Development
-Transport & Connectivity
-Regional Development",Economic Development
-Haa Alifu,Huvarafushi,2023,,"Airport Development 
-Extension",Airport Development,"1,400",Economic,"Economic Development
-Transport & Connectivity
-",Economic Development
-Haa Alifu,Ihavandhoo,2020,2023,Extension,Extension,"250,000",land scarcity and socio-economic development,"Social Development & Recreation
-Economic Development",Social Development & Recreation
-Haa Dhaalu,Kulhudhuffushi,2010,,Martime Development,Martime Development,"20,277",Economic and regional development,Economic Development,Economic Development
-Haa Dhaalu,Kulhudhuffushi,2010,,Extension,Extension,"285,000",Population Pressure,Social Development & Recreation,Social Development & Recreation
-Haa Dhaalu,Kulhudhuffushi,2016,,Maritime Development,Maritime Development,"38,210",Connectivity and urban and regional development,"Economic Development
-Transport & Connectivity
-Regional Development ",Economic Development
-Haa Dhaalu,Kulhudhuffushi,2017,,Airport Development,Airport Development,"183,500","Economic development 
-Connectivity","Economic Development
-Transport & Connectivity
-Regional Development ",Economic Development
-Haa Dhaalu,Makunudhoo,2023,,Airport Development,Airport Development,"430,000",Transport & Connectivity,Transport & Connectivity,Transport & Connectivity
-Shaviyani,Bileiyfahi,2023,,Airport Development,Airport Development,"360,000",Airport within 30min speedboat,"Transport & Connectivity
-Regional Development ",Transport & Connectivity
-Shaviyani,Mathikomandoo ,2023,,"Extension 
-",Extension,"174,384",LE and to connect to Komandoo to give more land to communty,Social Development & Recreation,Social Development & Recreation
-Shaviyani,Funadhoo,2017,2018,"Extension
+• providing more safety against the sea for at least the next 50 years (storm events, sealevel rise),Environmental Protection (Safer Island/Focus Island Policy)",Social Development & Recreation
+Haa Alifu,Dhihdhoo,2023,"Environmental Protection
+Extension",265000,Need for addtional land - housing and industrial uses ,Social Development & Recreation
+Haa Alifu,Huvarafushi,2019,Airport Development,350000,"Economic activities, reduce out migration from region",Economic Development
+Haa Alifu,Huvarafushi,2023,"Airport Development 
+Extension",1400,Economic,Economic Development
+Haa Alifu,Ihavandhoo,2020,Extension,250000,land scarcity and socio-economic development,Social Development & Recreation
+Haa Dhaalu,Kulhudhuffushi,2010,Martime Development,20277,Economic and regional development,Economic Development
+Haa Dhaalu,Kulhudhuffushi,2010,Extension,285000,Population Pressure,Social Development & Recreation
+Haa Dhaalu,Kulhudhuffushi,2016,Maritime Development,38210,Connectivity and urban and regional development,Economic Development
+Haa Dhaalu,Kulhudhuffushi,2017,Airport Development,183500,"Economic development 
+Connectivity",Economic Development
+Haa Dhaalu,Makunudhoo,2023,Airport Development,430000,Transport & Connectivity,Transport & Connectivity
+Shaviyani,Bileiyfahi,2023,Airport Development,360000,Airport within 30min speedboat,Transport & Connectivity
+Shaviyani,Mathikomandoo ,2023,"Extension 
+",174384,LE and to connect to Komandoo to give more land to communty,Social Development & Recreation
+Shaviyani,Funadhoo,2017,"Extension
 Airport Development
-Environmental Protection",Extension,"597,000",Airport and new land for housing,"Social Development & Recreation
-Transport & Connectivity
-Regional Development ",Social Development & Recreation
-Shaviyani,Komandoo,2012,,"Extension 
-Environmental Protection",Extension,"450,000.000000",shore protection and land shortage,Social Development & Recreation,Social Development & Recreation
-Shaviyani,Komandoo,2018,,Extension,Extension,"100,000.000000",land shorage and link islands,"Social Development & Recreation
-Transport & Connectivity",Social Development & Recreation
-Noonu,Maafaru,2017,,Airport Development,Airport Development,"43,194.570000",economic,"Economic Development
-Transport & Connectivity",Economic Development
-Noonu,Maafaru,2023,,Extension,Extension,"204,000","address land shortage - housing, commercial infrastrucutre tourism. Expansion of airport ","Social Development & Recreation
-Economic Development
-Transport & Connectivity
-Regional Development ",Social Development & Recreation
-Noonu,Velidhoo,2013,2023,"Extension 
-Environmental Protection",Extension,"105,000",Safe Island/Focus Island Project ,"Climate & Environment
-Regional development",Climate & Environment
-Raa,Alifushi,2022,,"Airport Development 
-Extension",Airport Development,505000,Airport and housing,"Social Development & Recreation
-Transport & Connectivity",Social Development & Recreation
-Raa,Dhuvaafaru,2021,2022,"Extension 
-Environmental Protection",Extension,"222,000",res/commercial/recreation,"Social Development & Recreation
-Economic Development",Social Development & Recreation
-Baa,Dharavandhoo,2011,,Airport Development,Airport Development,"97476.54
+Environmental Protection",597000,Airport and new land for housing,Social Development & Recreation
+Shaviyani,Komandoo,2012,"Extension 
+Environmental Protection",450000,shore protection and land shortage,Social Development & Recreation
+Shaviyani,Komandoo,2018,Extension,100000,land shorage and link islands,Social Development & Recreation
+Noonu,Maafaru,2017,Airport Development,43194.57,economic,Economic Development
+Noonu,Maafaru,2023,Extension,204000,"address land shortage - housing, commercial infrastrucutre tourism. Expansion of airport ",Social Development & Recreation
+Noonu,Velidhoo,2013,"Extension 
+Environmental Protection",105000,Safe Island/Focus Island Project ,Climate & Environment
+Raa,Alifushi,2022,"Airport Development 
+Extension",505000,Airport and housing,Social Development & Recreation
+Raa,Dhuvaafaru,2021,"Extension 
+Environmental Protection",222000,res/commercial/recreation,Social Development & Recreation
+Baa,Dharavandhoo,2011,Airport Development,"97476.54
 131,800","Airport development 
-(this airport was intended to cater to both Baa and Raa Atoll.) ","Transport & Connectivity
-Economic Development 
-Regional Development",Economic Development
-Baa,Eydhafushi,2013,,Extension,Extension,"257,900.00",Land to be eventually used for residential and industrial activities,"Social Development & Recreation
-Economic Development",Social Development & Recreation
-Baa,Thulhaadhoo,2011,,Extension,Extension,"197,183.87"," Expansion of fisheries in the island.
+(this airport was intended to cater to both Baa and Raa Atoll.) ",Economic Development
+Baa,Eydhafushi,2013,Extension,257900,Land to be eventually used for residential and industrial activities,Social Development & Recreation
+Baa,Thulhaadhoo,2011,Extension,197183.87," Expansion of fisheries in the island.
 ‐ Continuous Increase in population
 ‐ Increase in vessels, including large fishing vessels
 ‐ To improve the livelihoods of the island community
 ‐ To provide easy access to and from the island to nearby islands within the region and also
 within the island.  
-- Safe Island/Focus Island Project","Social Development & Recreation
-Economic Development
-Transport & Connectivity
-",Social Development & Recreation
-Baa,Thulhaadhoo,2023,,Airport Development,Airport Development,"618,700",Regional and economic development,"Economic Development
-Transport & Connectivity
-Regional Development 
-Climate & Environment",Economic Development
-Lhaviyani,Hinnavaru ,2014,,Extension,Extension,"304,307.04","Housing
-Safe Island/Focus Island Project","Social Development & Recreation
-Climate & Environment",Social Development & Recreation
-Lhaviyani,Naifaru,2003,,Extension,Extension,"337,037.78",Land pressure,Social Development & Recreation,Social Development & Recreation
-Lhaviyani,Naifaru,2023,,Extension,Extension,"209,500",,Social Development & Recreation,Social Development & Recreation
-Kaafu,Gulhifalhu,2021,,"New Island
-","New Island
-","3,000,000",economic ,Economic Development,Economic Development
-Kaafu,Gulhifalhu,2023,,Maritime Development,Maritime Development,"1,920,000.00","Male’ urban area expansion, land use pressures, economic growth. International port development","Social Development & Recreation
-Economic Development
-Regional Development ",Social Development & Recreation
-Kaafu,Gulhi,2021,,Extension,Extension,"101,500",,"Social Development & Recreation
-Economic Development",Social Development & Recreation
-Kaafu,Hulhule,2001,,Airport Development,Airport Development,Unverified,Expansion of the runway and supporting facilities,"Economic Development 
-Transport & Connectivity
-Regional Development",Economic Development
-Kaafu,Hulhule,2009,,Airport Development ,Airport Development ,Unverified,TBC,"Economic Development 
-Transport & Connectivity
-Regional Development",Economic Development
-Kaafu,Hulhule,2014,,Airport Development ,Airport Development ,Unverified,TBC,"Economic Development 
-Transport & Connectivity
-Regional Development",Economic Development
-Kaafu,Hulhule,2015,,Airport Development ,Airport Development ,Unverified,Economic Dev and Connectivity ***,"Economic Development 
-Transport & Connectivity
-Regional Development",Economic Development
-Kaafu,Dhiyaneru Lagoon and Picnic Islands,2023,,New Island,New Island,"130,900.00","The decision has been taken by the Government to relocate the current adhoc marina or boat mooring area at Hulhumale’ Lagoon to Dhiyaneru Lagoon.
+- Safe Island/Focus Island Project",Social Development & Recreation
+Baa,Thulhaadhoo,2023,Airport Development,618700,Regional and economic development,Economic Development
+Lhaviyani,Hinnavaru ,2014,Extension,304307.04,"Housing
+Safe Island/Focus Island Project",Social Development & Recreation
+Lhaviyani,Naifaru,2003,Extension,337037.78,Land pressure,Social Development & Recreation
+Lhaviyani,Naifaru,2023,Extension,209500,,Social Development & Recreation
+Kaafu,Gulhifalhu,2021,"New Island
+",3000000,economic ,Economic Development
+Kaafu,Gulhifalhu,2023,Maritime Development,1920000,"Male’ urban area expansion, land use pressures, economic growth. International port development",Social Development & Recreation
+Kaafu,Gulhi,2021,Extension,101500,,Social Development & Recreation
+Kaafu,Hulhule,2001,Airport Development,Unverified,Expansion of the runway and supporting facilities,Economic Development
+Kaafu,Hulhule,2009,Airport Development ,Unverified,TBC,Economic Development
+Kaafu,Hulhule,2014,Airport Development ,Unverified,TBC,Economic Development
+Kaafu,Hulhule,2015,Airport Development ,Unverified,Economic Dev and Connectivity ***,Economic Development
+Kaafu,Dhiyaneru Lagoon and Picnic Islands,2023,New Island,130900,"The decision has been taken by the Government to relocate the current adhoc marina or boat mooring area at Hulhumale’ Lagoon to Dhiyaneru Lagoon.
 
-Maritime, transport, commericial, land use issues","Social Development & Recreation
-Economic Development
-Regional Development
-",Social Development & Recreation
-Kaafu,Hulhumaale,2001,,New Island,New Island,"1,880,000.00","Male’ urban area expansion, land use pressures, economic growth. International port development","Social Development & Recreation
-Economic Development
-Regional Development
-",Social Development & Recreation
-Kaafu,Hulhumaale,2013,,New Island,New Island,"2,440,000","Male’ urban area expansion, land use pressures, economic growth. International port development","Social Development & Recreation
-Economic Development
-Regional Development
-",Social Development & Recreation
-Kaafu,Hulhumaale,2023,,New Island,New Island,"630,000.00","Male’ urban area expansion, land use pressures, economic growth. International port development","Social Development & Recreation
-Economic Development
-Regional Development
-",Social Development & Recreation
-Kaafu,Dhiffushi,2023,,"Extension
-Environmental Protection",Extension,"229,700",,"Social Development & Recreation
-Climate & Environment ",Social Development & Recreation
-Kaafu,Giraavaru Falhu,2023,,New Island,New Island,"1,200,000","Male’ urban area expansion, land use pressures, economic growth","Economic Development
-Social Development & Recreation",Social Development & Recreation
-Kaafu,Fushidhiggaru Falhu,2023,NA,New Island,New Island,"12,000,000","Male’ urban area expansion, land use pressures, economic growth","Economic Development
-Social Development & Recreation
-Regional Development",Social Development & Recreation
-Kaafu,Guraidhoo,2020,2021,"Extension
-Environmental Protection",Extension,"160,000",Land shortage ,"Social Development & Recreation
-Socio-economic develpoment
-Regional Development
-Climate & Environment",Social Development & Recreation
-Kaafu,Guraidhoo Picnic Island,2020,,New Island,New Island,"10,000",Recreation,Social Development & Recreation,Social Development & Recreation
-Kaafu,Himmafushi,2016,,Extension,Extension,"194,303",Additional land for residents,Social Development & Recreation,Social Development & Recreation
-Kaafu,Huraa,2018,2020,Extension,Extension,"223,263.56",Land shortage - housing ,Social Development & Recreation,Social Development & Recreation
-Kaafu,Maafushi,2021,2021,New Island,New Island,"299,853.00",Existing and future land demands,Social Development & Recreation,Social Development & Recreation
-Kaafu,Kuda Giri,2021,,New island,New island,"95,000.00",recreation and economic,"Economic Development
-Social Development & Recreation",Economic Development
-Kaafu,Maale,2016,,Extension,Extension,Unverified,Extension of industrial village and accompanying works,"Economic Development
-",Economic Development
-Kaafu,Gaafaru,2016,,Maritime Development,Maritime Development ,"59,021.10",Economic ,"Economic Development
-",Economic Development
-Kaafu,Gaafaru,2023,,Extension,Extension,"400,000","land use pressures housing, education industrial and commercial ","Social Development & Recreation
-Economic Development",Social Development & Recreation
-Alifu Alifu,Ukulhas,2020,2023,"Extension
-Environmental Protection",Extension,"100,000",new land for populaiton needs ,Social Development & Recreation,Social Development & Recreation
-Alifu Alifu,Ukulhas,2023,,Extension,Extension,"120,000","Housing, tourism","Social Development & Recreation
-Economic Development",Social Development & Recreation
-Alifu Alifu,Bodufolhudhoo,2023,,"Extension
-Environmental Protection",Extension,"120,000",land for communtity,"Social Development & Recreation
-Climate & Environment",Social Development & Recreation
-Alifu Dhaalu,Mahibadhoo,2023,,Extension,Extension,"70,000",,"Social Development & Recreation
-Climate & Environment",Social Development & Recreation
-Alifu Dhaalu,Maamigili,2011,,Airport Development,Airport Development,"15,000",,"Economic Development
-Transport & Connectivity",Economic Development
-Alifu Dhaalu,Maamigili,2023,,Maritime Development ,Maritime Development ,"80,000",need for more vessels,"Economic Development
-Transport & Connectivity",Economic Development
-Meemu,Dhiggaru,2021,,"Extension
-Environmental Protection",Extension,"250,000.00",Environmental Protection,"Climate & Environment
-Social Development & Recreation",Climate & Environment
-Meemu,Muli,2016,,Extension,Extension,"403,902.31",land shortage,Social Development & Recreation,Social Development & Recreation
-Meemu,Muli,2021,,Airport Development,Airport Development,"170,000",transport,Transport & Connectivity,Transport & Connectivity
-Faafu,Feeali,2023,,Extension ,Extension ,"138,000",Need for additional land for community,Social Development & Recreation,Social Development & Recreation
-Faafu,Magoodhoo,2014,,Maritime Development ,Maritime Development ,"38,804",Economic Development,Economic Development,Economic Development
-Faafu,Magoodhoo,2019,,"Airport Development 
-Extension",Airport Development,"478,000.00", transportation and housing ,"Social Development & Recreation
-Transport & Connectivity",Social Development & Recreation
-Faafu,Nilandhoo,2019,,"Extension
-Maritime Development",Extension,"161,928.52","Economic
-housing and infrastructure development including semiindustrial activities.","Economic Development
-Social Development & Recreation",Social Development & Recreation
-Dhaalu,Kudahuvadhoo,2013,On GE: 2016 it was completed but need to check!!,"Extension
-","Extension
-","650,000","Post Tsunami - mass movement to this island. Housing, commercial and industrial demand for land. ","Economic Development
-Social Development & Recreation",Social Development & Recreation
-Dhaalu,Kudahuvadhoo,2014,,Airport Development,Airport Development,Unverified,"Transport, regional development","Regional Development 
-Transport & Connectivity",Transport & Connectivity
-Dhaalu,Meedhoo,2016,,Extension,Extension,"230,340.00","housing, industrial","Economic Development
-Social Development & Recreation",Social Development & Recreation
-Thaa,Guraidhoo,2014,2021,Extension,Extension,"440,624.63","housing, industrial and commercial ","Economic Development
-Social Development & Recreation",Social Development & Recreation
-Thaa,Hirilandhoo,2019,Says August 2023 was to be done,"Maritime Development
+Maritime, transport, commericial, land use issues",Social Development & Recreation
+Kaafu,Hulhumaale,2001,New Island,1880000,"Male’ urban area expansion, land use pressures, economic growth. International port development",Social Development & Recreation
+Kaafu,Hulhumaale,2013,New Island,2440000,"Male’ urban area expansion, land use pressures, economic growth. International port development",Social Development & Recreation
+Kaafu,Hulhumaale,2023,New Island,630000,"Male’ urban area expansion, land use pressures, economic growth. International port development",Social Development & Recreation
+Kaafu,Dhiffushi,2023,"Extension
+Environmental Protection",229700,,Social Development & Recreation
+Kaafu,Giraavaru Falhu,2023,New Island,1200000,"Male’ urban area expansion, land use pressures, economic growth",Social Development & Recreation
+Kaafu,Fushidhiggaru Falhu,2023,New Island,12000000,"Male’ urban area expansion, land use pressures, economic growth",Social Development & Recreation
+Kaafu,Guraidhoo,2020,"Extension
+Environmental Protection",160000,Land shortage ,Social Development & Recreation
+Kaafu,Guraidhoo Picnic Island,2020,New Island,10000,Recreation,Social Development & Recreation
+Kaafu,Himmafushi,2016,Extension,194303,Additional land for residents,Social Development & Recreation
+Kaafu,Huraa,2018,Extension,223263.56,Land shortage - housing ,Social Development & Recreation
+Kaafu,Maafushi,2021,New Island,299853,Existing and future land demands,Social Development & Recreation
+Kaafu,Kuda Giri,2021,New island,95000,recreation and economic,Economic Development
+Kaafu,Maale,2016,Extension,Unverified,Extension of industrial village and accompanying works,Economic Development
+Kaafu,Gaafaru,2016,Maritime Development,59021.1,Economic ,Economic Development
+Kaafu,Gaafaru,2023,Extension,400000,"land use pressures housing, education industrial and commercial ",Social Development & Recreation
+Alifu Alifu,Ukulhas,2020,"Extension
+Environmental Protection",100000,new land for populaiton needs ,Social Development & Recreation
+Alifu Alifu,Ukulhas,2023,Extension,120000,"Housing, tourism",Social Development & Recreation
+Alifu Alifu,Bodufolhudhoo,2023,"Extension
+Environmental Protection",120000,land for communtity,Social Development & Recreation
+Alifu Dhaalu,Mahibadhoo,2023,Extension,70000,,Social Development & Recreation
+Alifu Dhaalu,Maamigili,2011,Airport Development,15000,,Economic Development
+Alifu Dhaalu,Maamigili,2023,Maritime Development ,80000,need for more vessels,Economic Development
+Meemu,Dhiggaru,2021,"Extension
+Environmental Protection",250000,Environmental Protection,Climate & Environment
+Meemu,Muli,2016,Extension,403902.31,land shortage,Social Development & Recreation
+Meemu,Muli,2021,Airport Development,170000,transport,Transport & Connectivity
+Faafu,Feeali,2023,Extension ,138000,Need for additional land for community,Social Development & Recreation
+Faafu,Magoodhoo,2014,Maritime Development ,38804,Economic Development,Economic Development
+Faafu,Magoodhoo,2019,"Airport Development 
+Extension",478000, transportation and housing ,Social Development & Recreation
+Faafu,Nilandhoo,2019,"Extension
+Maritime Development",161928.52,"Economic
+housing and infrastructure development including semiindustrial activities.",Social Development & Recreation
+Dhaalu,Kudahuvadhoo,2013,"Extension
+",650000,"Post Tsunami - mass movement to this island. Housing, commercial and industrial demand for land. ",Social Development & Recreation
+Dhaalu,Kudahuvadhoo,2014,Airport Development,Unverified,"Transport, regional development",Transport & Connectivity
+Dhaalu,Meedhoo,2016,Extension,230340,"housing, industrial",Social Development & Recreation
+Thaa,Guraidhoo,2014,Extension,440624.63,"housing, industrial and commercial ",Social Development & Recreation
+Thaa,Hirilandhoo,2019,"Maritime Development
 Extension 
-Environmental Protection",Maritime Development ,"250,000",Housing and commercial uses ,"Economic Development
-Social Development & Recreation",Social Development & Recreation
-Thaa,Omadhoo,2016,,Maritime Development ,Maritime Development ,"17,776",Economic,"Economic Development
-",Economic Development
-Thaa,Thimarafushi,2011,,Extension,Extension,"240,000.00","Land shortage Housing, industrial ","Economic Development
-Social Development & Recreation",Social Development & Recreation
-Thaa,Thimarafushi,2012,,Airport Development,Airport Development,"691,745.15",Airport ,Transport & Connectivity,Transport & Connectivity
-Thaa,Vilufushi,2005,,Extension,Extension,"420,972.73",housing,Social Development & Recreation,Social Development & Recreation
-Thaa,Vilufushi,2023,,Extension,Extension,"563,400","socioeconomic developement, transport, trade, commerce, tourism","Economic Development
-Transport & Connectivity
-Social Development & Recreation",Economic Development
-Gaafu Alifu,Dhaandhoo,2022,,"New Island
-Environmental Protection",New Island,"250,000","Socio-economic Development
+Environmental Protection",250000,Housing and commercial uses ,Social Development & Recreation
+Thaa,Omadhoo,2016,Maritime Development ,17776,Economic,Economic Development
+Thaa,Thimarafushi,2011,Extension,240000,"Land shortage Housing, industrial ",Social Development & Recreation
+Thaa,Thimarafushi,2012,Airport Development,691745.15,Airport ,Transport & Connectivity
+Thaa,Vilufushi,2005,Extension,420972.73,housing,Social Development & Recreation
+Thaa,Vilufushi,2023,Extension,563400,"socioeconomic developement, transport, trade, commerce, tourism",Economic Development
+Gaafu Alifu,Dhaandhoo,2022,"New Island
+Environmental Protection",250000,"Socio-economic Development
 Land Scarcity
-Shore Protection","Social Development & Recreation
-Economic Development
-Climate & Environment",Social Development & Recreation
-Gaafu Dhaalu,Thinadhoo,2015,,Extension ,Extension ,"560,000.00"," increased need to 
-expand the land area for building residential, economic, and commercial and social services i","Social Development & Recreation
-Economic Development",Social Development & Recreation
-Gaafu Dhaalu,Thinadhoo,2022,,"Extension 
-New island",Extension ,"105,874.00",Industrial - land use shortage (port),"Social Development & Recreation
-Economic Development",Social Development & Recreation
-Seenu,Gan,2013,complete,Airport Development,Airport Development,"325,000","Economic development, tourism ","Economic Development
-Transport & Connectivity",Economic Development
-Seenu,Hithadhoo,2012,,Extension,Extension,"184,703.99",Industrial ,Economic Development,Economic Development
-Seenu,Hithadhoo,2023,,Extension,Extension,"900,000","Recreational use and commerical use
-residential, commercial, and industrial development","Social Development & Recreation
-Economic Development
-
-",Social Development & Recreation
-Seenu,Hulhudhoo-Meedhoo,2021,,"Extension
-",Extension,Unverified,Tourism,Economic Development,Economic Development
-Seenu,Hulhudhoo-Meedhoo,2023,,"Extension
-",Extension,"323,000","New land - industry and recreation
-residential, commercial, and industrial development","Social Development & Recreation
-Economic Development
-
-",Social Development & Recreation
-Seenu,Maradhoo-Feydhoo,2023,,Extension,Extension,"760,000","residential, commercial, and industrial development","Social Development & Recreation
-Economic Development
-
-",Social Development & Recreation
-Seenu,Hankede****,TBC,TBC,"Extension
-","Extension
-","50,000","Socio-economic development (employment, small & medium businesses)",Economic Development,Economic Development
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
+Shore Protection",Social Development & Recreation
+Gaafu Dhaalu,Thinadhoo,2015,Extension ,560000," increased need to 
+expand the land area for building residential, economic, and commercial and social services i",Social Development & Recreation
+Gaafu Dhaalu,Thinadhoo,2022,"Extension 
+New island",105874,Industrial - land use shortage (port),Social Development & Recreation
+Seenu,Gan,2013,Airport Development,325000,"Economic development, tourism ",Economic Development
+Seenu,Hithadhoo,2012,Extension,184703.99,Industrial ,Economic Development
+Seenu,Hithadhoo,2023,Extension,900000,"Recreational use and commerical use
+residential, commercial, and industrial development",Social Development & Recreation
+Seenu,Hulhudhoo-Meedhoo,2021,"Extension
+",Unverified,Tourism,Economic Development
+Seenu,Hulhudhoo-Meedhoo,2023,"Extension
+",323000,"New land - industry and recreation
+residential, commercial, and industrial development",Social Development & Recreation
+Seenu,Maradhoo-Feydhoo,2023,Extension,760000,"residential, commercial, and industrial development",Social Development & Recreation
+Seenu,Hankede****,TBC,"Extension
+",50000,"Socio-economic development (employment, small & medium businesses)",Economic Development
