@@ -68,8 +68,13 @@ tab2.altair_chart(chart, use_container_width=True)
 
 
 with tab3:
-    m = leafmap.Map(center=[40, -100], zoom=4)
+    islands = pd.read_csv("data/island_latlong.csv")
 
+    #get the average value of the lat and long
+    ave_lat = islands["Latitude"].mean()
+    ave_long = islands["Longitude"].mean()
+
+    m = leafmap.Map(center=[ave_long, ave_lat], zoom=4)
     islands = pd.read_csv("data/island_latlong.csv")
     m.add_points_from_xy(islands, x="Longitude", y="Latitude")
     m.to_streamlit(height=500)
