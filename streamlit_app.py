@@ -13,7 +13,6 @@ st.write(
 
 ## setting up test layout
 col1, col2 = st.columns(2)
-row1, row2 = col2.rows(2)
 
 
 # Load the data from a CSV. We're caching this so it doesn't reload every time the app
