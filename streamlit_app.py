@@ -71,18 +71,5 @@ with tab3:
     m = leafmap.Map(center=[40, -100], zoom=4)
 
     islands = pd.read_csv("data/island_latlong.csv")
-
-    
-
     m.add_points_from_xy(islands, x="Longitude", y="Latitude")
-
-    # islands = "data/island_latlong.csv"
-    # m.add_points_from_xy(
-    #     islands,
-    #     x="longitude",
-    #     y="latitude",
-    #     icon_names=["gear", "map", "leaf", "globe"],
-    #     spin=True,
-    #     add_legend=True,
-    # )
     m.to_streamlit(height=500)
