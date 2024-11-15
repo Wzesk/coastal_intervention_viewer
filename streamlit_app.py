@@ -20,7 +20,7 @@ row1, row2 = col2.rows(2)
 # reruns (e.g. if the user interacts with the widgets).
 @st.cache_data
 def load_data():
-    df = pd.read_csv("data/movies_genres_summary.csv")
+    df = pd.read_csv("data/reclaimed_Islands_gt.csv") 
     return df
 
 
